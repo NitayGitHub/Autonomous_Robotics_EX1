@@ -1,7 +1,7 @@
 # Autonomous Robotics EX1
 ## Table of Contents
-- [Part 1: Detection and Pose Estimation of Aruco QR Markers](#part-1-detection-and-pose-estimation-of-aruco-qr-markers)
-- [Part 2: Capture and Align Camera Position Using ArUco Markers](#part-2-capture-and-align-camera-position-using-aruco-markers)
+- [Part 1](#part-1)
+- [Part 2](#part-2)
 
 ## Part 1
 
