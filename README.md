@@ -1,3 +1,8 @@
+# Autonomous Robotics EX1
+## Table of Contents
+- [Part 1: Detection and Pose Estimation of Aruco QR Markers](#part-1-detection-and-pose-estimation-of-aruco-qr-markers)
+- [Part 2: Capture and Align Camera Position Using ArUco Markers](#part-2-capture-and-align-camera-position-using-aruco-markers)
+
 ## Part 1
 
 This part demonstrates the detection and pose estimation of Aruco QR markers in a video file. The detected markers are logged into a CSV file along with their 2D and 3D positions, and the processed video with detected markers is saved as an MP4 file.
